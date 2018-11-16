@@ -1,0 +1,32 @@
+2018/Nov/16 21:15:42.679808 AAT ----------> S1AP_Setup_Request
+2018/Nov/16 21:15:42.680745 AAT waiting for S1AP_Setup_Response
+2018/Nov/16 21:15:42.699718 AAT <---------- S1AP_Setup_Response
+2018/Nov/16 21:15:42.807711 AAT ----------> Attach_Request
+2018/Nov/16 21:15:42.810137 AAT waiting for Authentication_Request
+2018/Nov/16 21:15:42.890916 AAT <---------- Authentication_Request
+2018/Nov/16 21:15:42.942193 AAT ----------> Authentication_Response
+2018/Nov/16 21:15:42.944892 AAT waiting for Security_Mode_Command
+2018/Nov/16 21:15:42.963573 AAT <---------- Security_Mode_Command
+2018/Nov/16 21:15:43.014764 AAT ----------> Security_Mode_Complete
+2018/Nov/16 21:15:43.018531 AAT waiting for Attach_Accept
+2018/Nov/16 21:15:43.353610 AAT <---------- Attach_Accept
+2018/Nov/16 21:15:43.404910 AAT ----------> Initial_Context_Setup_Response
+2018/Nov/16 21:15:43.455797 AAT ----------> Attach_Complete
+2018/Nov/16 21:15:43.460676 AAT waiting for E_RAB_Setup_Request
+2018/Nov/16 21:15:43.480219 AAT <---------- E_RAB_Setup_Request
+2018/Nov/16 21:15:43.531632 AAT ----------> E_RAB_Setup_Response
+2018/Nov/16 21:15:43.582645 AAT ----------> Activate_Dedicated_EPS_Bearer_Context_Accept
+2018/Nov/16 21:15:47.635256 AAT ----------> E_RAB_Modification_Indication
+2018/Nov/16 21:15:47.641567 AAT waiting for E_RAB_Modification_Confirm
+2018/Nov/16 21:15:47.652983 AAT <---------- E_RAB_Modification_Confirm
+2018/Nov/16 21:15:47.704387 AAT ----------> TAU_Request
+2018/Nov/16 21:15:47.711610 AAT waiting for TAU_Accept
+2018/Nov/16 21:15:47.725439 AAT <---------- TAU_Accept
+2018/Nov/16 21:15:47.776850 AAT ----------> TAU_Complete
+2018/Nov/16 21:15:47.827972 AAT ----------> Initial_Context_Setup_Response
+2018/Nov/16 21:15:47.879024 AAT ----------> Detach_Request_UE_Initiated
+2018/Nov/16 21:15:47.886602 AAT waiting for Detach_Accept_Network_Initiated
+2018/Nov/16 21:15:48.103823 AAT <---------- Detach_Accept_Network_Initiated
+2018/Nov/16 21:15:48.112570 AAT waiting for S1_UE_Context_Release_Command
+2018/Nov/16 21:15:48.116848 AAT <---------- S1_UE_Context_Release_Command
+2018/Nov/16 21:15:48.168050 AAT ----------> S1_UE_Context_Release_Complete
