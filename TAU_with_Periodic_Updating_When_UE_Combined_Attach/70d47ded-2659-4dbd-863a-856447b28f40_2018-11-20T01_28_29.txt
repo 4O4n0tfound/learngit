@@ -1,0 +1,38 @@
+2018/Nov/20 01:26:09.130368 AAT ----------> S1AP_Setup_Request
+2018/Nov/20 01:26:09.131331 AAT waiting for S1AP_Setup_Response
+2018/Nov/20 01:26:09.147400 AAT <---------- S1AP_Setup_Response
+2018/Nov/20 01:26:09.254151 AAT ----------> Attach_Request
+2018/Nov/20 01:26:09.256511 AAT waiting for Authentication_Request
+2018/Nov/20 01:26:09.322259 AAT <---------- Authentication_Request
+2018/Nov/20 01:26:09.373437 AAT ----------> Authentication_Response
+2018/Nov/20 01:26:09.376136 AAT waiting for Security_Mode_Command
+2018/Nov/20 01:26:09.387103 AAT <---------- Security_Mode_Command
+2018/Nov/20 01:26:09.438334 AAT ----------> Security_Mode_Complete
+2018/Nov/20 01:26:09.442015 AAT waiting for Attach_Accept
+2018/Nov/20 01:26:10.366175 AAT <---------- Attach_Accept
+2018/Nov/20 01:26:10.417472 AAT ----------> Initial_Context_Setup_Response
+2018/Nov/20 01:26:10.468380 AAT ----------> Attach_Complete
+2018/Nov/20 01:26:10.519458 AAT ----------> S1_UE_Context_Release_Request
+2018/Nov/20 01:26:10.523864 AAT waiting for S1_UE_Context_Release_Command
+2018/Nov/20 01:26:10.548704 AAT <---------- S1_UE_Context_Release_Command
+2018/Nov/20 01:26:10.600008 AAT ----------> S1_UE_Context_Release_Complete
+2018/Nov/20 01:26:10.650861 AAT ----------> TAU_Request
+2018/Nov/20 01:26:10.656900 AAT waiting for TAU_Accept
+2018/Nov/20 01:26:10.676718 AAT <---------- TAU_Accept
+2018/Nov/20 01:26:10.683633 AAT waiting for S1_UE_Context_Release_Command
+2018/Nov/20 01:26:10.687792 AAT <---------- S1_UE_Context_Release_Command
+2018/Nov/20 01:26:10.739082 AAT ----------> S1_UE_Context_Release_Complete
+2018/Nov/20 01:26:10.789872 AAT ----------> Detach_Request_UE_Initiated
+2018/Nov/20 01:26:10.797596 AAT waiting for Detach_Accept_Network_Initiated
+2018/Nov/20 01:26:10.813432 AAT <---------- Detach_Accept_Network_Initiated
+2018/Nov/20 01:26:10.822244 AAT waiting for S1_UE_Context_Release_Command
+2018/Nov/20 01:26:10.826380 AAT <---------- S1_UE_Context_Release_Command
+2018/Nov/20 01:26:10.877676 AAT ----------> S1_UE_Context_Release_Complete
+2018/Nov/20 01:26:10.886784 AAT waiting for Paging
+2018/Nov/20 01:26:10.906281 AAT <---------- Paging
+2018/Nov/20 01:26:10.957557 AAT ----------> Detach_Request_UE_Initiated
+2018/Nov/20 01:26:10.967975 AAT waiting for Detach_Accept_Network_Initiated
+2018/Nov/20 01:26:11.108472 AAT <---------- Detach_Accept_Network_Initiated
+2018/Nov/20 01:26:11.120317 AAT waiting for S1_UE_Context_Release_Command
+2018/Nov/20 01:26:11.124642 AAT <---------- S1_UE_Context_Release_Command
+2018/Nov/20 01:26:11.175945 AAT ----------> S1_UE_Context_Release_Complete
